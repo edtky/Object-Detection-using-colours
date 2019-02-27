@@ -1,6 +1,4 @@
-# Object_Detection_Using_Colours
-
-------
+# Object Detection Using Colours
 
 We'll use OpenCV to detect objects in an image through a rudimentary method of using its colors.. A series of operations will be performed to detect if an object is present in the image. If so, the largest object will in the image will be highlighted and a green circle will be drawn around it to indicate its position in the image.
 
