@@ -20,7 +20,6 @@ To test custom images:
 1. add YOUR_IMAGE to the folder 'image'
 2. modify the path for loading your image `image = cv2.imread('images/YOUR_IMAGE.jpg')`
 
-
 ## Credits
 
 Credits for this code go to [alexlouden](https://github.com/alexlouden/strawberries/blob/master/Strawberry%20working.ipynb) and Siraj Raval for his video on "How to do Object Detection with OpenCV".
